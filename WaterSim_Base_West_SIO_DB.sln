@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterSim_WestStates_SIO_DB_v 2", "WaterSim_WestStates_SIO_DB_v 2.csproj", "{0ED6BDE9-5407-40FD-BE18-38D5E63FD61D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sankey2", "..\Sankey\Sankey2.csproj", "{2F149E04-D5FE-47C2-9D12-FB9835B1EBDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniDb2", "..\UniDb2\Projects\UniDb2\UniDb2.csproj", "{045BE1B8-6625-4CF1-B5B2-7D60E4D4165D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ED6BDE9-5407-40FD-BE18-38D5E63FD61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED6BDE9-5407-40FD-BE18-38D5E63FD61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED6BDE9-5407-40FD-BE18-38D5E63FD61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED6BDE9-5407-40FD-BE18-38D5E63FD61D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F149E04-D5FE-47C2-9D12-FB9835B1EBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F149E04-D5FE-47C2-9D12-FB9835B1EBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F149E04-D5FE-47C2-9D12-FB9835B1EBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F149E04-D5FE-47C2-9D12-FB9835B1EBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045BE1B8-6625-4CF1-B5B2-7D60E4D4165D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045BE1B8-6625-4CF1-B5B2-7D60E4D4165D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045BE1B8-6625-4CF1-B5B2-7D60E4D4165D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045BE1B8-6625-4CF1-B5B2-7D60E4D4165D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
